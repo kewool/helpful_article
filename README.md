@@ -13,3 +13,5 @@
   - Pong game with only hardware
 * http://silent.org.pl/home/2022/06/13/the-floppotron-3-0/
   - Orchestra with hardwares
+* https://asec.ahnlab.com/ko/1084/
+  - Amazing miner

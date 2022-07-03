@@ -3,6 +3,8 @@
 ## Helpful article
 * https://news.hada.io/weekly/202226?utm_source=discord&utm_medium=bot&utm_campaign=224
   - an article to help me start a business
+* https://xangle.io/research/62bd080e534a07d0b2ffb6aa
+  - Blockchain buisness model
 
 ## The article that impressed me
 * https://howardchen.substack.com/p/this-amateur-programmer-fought-cancer?s=r
